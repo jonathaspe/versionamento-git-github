@@ -6,13 +6,14 @@ Repositório para armazenar resumos sobre o Git e o GitHub do Curso de Versionam
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
 
-## 👨‍💻 Resumo das aulas
+## 👨‍💻 Resumo das aulas - exemplo de tabela
 
 | Aulas | Resumos |
 | Testes de Escrita | README.md |
 | Testes de Escrita | Dentro de uma tabela |
 
 ### 🖥️ Simulando código de computador
+
 ```
 // Comandos da linha de comando
 mkdir [Nome da Pasta]
@@ -62,5 +63,5 @@ git merge origin/main
 - https://github.blog/2018-03-01-ddos-incident-report/
 - https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/
 - https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/
-![image](https://github.com/jonathaspe/versionamento-git-github/assets/70716885/724b58e1-cec5-496e-8b2f-d6998065fac9)
+- ![image](https://github.com/jonathaspe/versionamento-git-github/assets/70716885/724b58e1-cec5-496e-8b2f-d6998065fac9)
 
