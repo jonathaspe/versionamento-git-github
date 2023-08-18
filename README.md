@@ -14,15 +14,15 @@ Repositório para armazenar resumos sobre o Git e o GitHub do Curso de Versionam
 
 ### 🖥️ Simulando código de computador
 
-// Comandos da linha de comando
+### Comandos da linha de comando
 
 ```
-
 mkdir [Nome da Pasta]
 touch [Nome da Pasta/Nome do Arquivo.md]
 ```
 
-// Principais comandos do git
+### Principais comandos do git
+
 ```
 git init
 git clone [URL do repositório desejado]
@@ -39,7 +39,8 @@ git stash pop
 git stash apply
 ```
 
-// Comandos para excluir alterações realizadas em um arquivo
+### Comandos para excluir alterações realizadas em um arquivo
+
 ```
 git reset [código do Commit desejado]
 git reset [Nome do Arquivo] ou [Nome da Pasta/Nome do Arquivo.md]
@@ -47,7 +48,8 @@ git reset --soft [código do Commit desejado]
 git reset --hard [código do Commit desejado]
 ```
 
-// Comandos para a criação, pesquisa, exclusão e mescla de branch
+### Comandos para a criação, pesquisa, exclusão e mescla de branch
+
 ```
 git checkout -b [Nome da Brach]
 git checkout [Nome da Brach desejada]
@@ -57,7 +59,8 @@ git branch
 git branch -d [Nome da Brach que deseja excluir]
 ```
 
-// Resolução de conflitos
+### Resolução de conflitos
+
 ```
 git fetch origin main
 git diff
