@@ -57,4 +57,10 @@ git merge origin/main
 ```
 
 ## Referências
+https://github.com/elidianaandrade/dio-curso-git-github
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+https://github.blog/2018-03-01-ddos-incident-report/
+https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/
+https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/
+![image](https://github.com/jonathaspe/versionamento-git-github/assets/70716885/724b58e1-cec5-496e-8b2f-d6998065fac9)
 
